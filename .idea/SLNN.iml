@@ -3,10 +3,10 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/NN/Lab1/logs" />
-      <excludeFolder url="file://$MODULE_DIR$/NN/lab3/models" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/NN/Lab3/models" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.11 (SLNN)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="C:\Users\steur\miniconda3" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
